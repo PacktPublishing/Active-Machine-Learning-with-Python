@@ -1,0 +1,21 @@
+model_path_in_s3: 's3://my-models-library/my-best-object-detection-model.pt' 
+
+inference_confidence_threshold: 0.3 
+
+proportionSamples: 0.20  # 20% of the samples 
+
+isSSLenabled: true 
+
+maxSSLepochs: 20   
+
+important_classes: {"person": 0, " sports ball": 32} 
+
+balance: true 
+
+balance_strategy:   { 'person': 0.50,  
+
+'sports ball': 0.50}  
+
+videos_folder_in_s3: "test" 
+
+s3_bucket_output: 'labeling-queue' 
