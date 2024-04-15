@@ -43,7 +43,6 @@ With the following software and hardware list you can run all code files present
 |  	1-7	   |   	Python 3.10.12+                                  			  | Any OS | 		
 |  	1-7	   |   	Jupyter or Google Colab notebook                                  			  | Any OS | 		
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800560413_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Practical Machine Learning on Databricks  [[Packt]](https://www.packtpub.com/product/practical-machine-learning-on-databricks/9781801812030) [[Amazon]](https://www.amazon.com/dp/1801812039)
